@@ -1,0 +1,2 @@
+# This directory stores custom spaCy models or scikit-learn pipelines.
+# Place trained model artifacts here for future ML-based resume scoring.

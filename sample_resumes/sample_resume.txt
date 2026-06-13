@@ -1,0 +1,51 @@
+JOHN DOE
+john.doe@email.com | +91-9876543210
+linkedin.com/in/johndoe | github.com/johndoe
+New Delhi, India
+
+SUMMARY
+Motivated Computer Science graduate with hands-on experience in Python, Machine Learning, and Web Development.
+Passionate about building scalable data-driven solutions and open-source contribution.
+
+EDUCATION
+Bachelor of Technology — Computer Science Engineering
+Delhi Technological University, New Delhi | 2020 – 2024 | CGPA: 8.6/10
+
+SKILLS
+Programming Languages: Python, Java, JavaScript, C++
+Web Technologies: React, Django, Flask, HTML, CSS, Node.js
+Data & ML: Machine Learning, Deep Learning, NLP, TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy
+Databases: MySQL, MongoDB, PostgreSQL, Redis
+Tools & Platforms: Git, GitHub, Docker, AWS, Linux, Jupyter, VS Code
+Concepts: Data Structures, Algorithms, REST API, OOP, Agile
+
+WORK EXPERIENCE
+Machine Learning Intern — TechStartup Pvt. Ltd.
+June 2023 – August 2023
+- Developed an NLP pipeline to classify customer support tickets with 92% accuracy using spaCy and scikit-learn.
+- Automated data preprocessing workflows, reducing pipeline runtime by 40%.
+- Deployed the model as a REST API using FastAPI and Docker.
+
+Data Science Intern — Analytics Corp
+December 2022 – February 2023
+- Built exploratory data analysis dashboards in Python using Pandas, Matplotlib, and Plotly.
+- Created a recommendation engine for e-commerce products using collaborative filtering.
+
+PROJECTS
+Resume Parser (this project!)
+- Built an end-to-end NLP-powered resume parser using Streamlit, spaCy, and pdfplumber.
+- Achieved 85%+ extraction accuracy across 50 diverse resume formats.
+
+Stock Price Predictor
+- LSTM-based time-series model for stock price forecasting using TensorFlow and Yahoo Finance data.
+- Deployed on Streamlit Cloud with real-time data fetching.
+
+CERTIFICATIONS
+- Deep Learning Specialization — Coursera / DeepLearning.AI (2023)
+- AWS Cloud Practitioner — Amazon Web Services (2023)
+- Python for Data Science — IBM / Coursera (2022)
+
+ACHIEVEMENTS
+- Winner, Smart India Hackathon 2023 (AI/ML track)
+- Published research paper on "Attention Mechanisms in NLP" in IJCSIT (2023)
+- Open-source contributor to scikit-learn and spaCy repositories
